@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu-logon{
+    background: #ffa217;
+    width: 12%;
+    margin-right: 1%;
+    color: #ffffff;
+    font-weight: bold;
+}
+.menu-logon ul{
+    text-decoration: none !important;
+}
+.menu-logon li a{
+    color: #ffffff !important;
+}
+.img_user{
+    width: 15%;
+    margin-left: 39%;
+}
+
+.bg-primary {
+    background-color: #ffa217!important;
+}
